@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "result": {
+        "id": 2,
+        "package_name": "POSsee Lite",
+        "expire_date": "2023-12-05T07:00:00+07:00",
+        "remaining_amount": 25,
+        "billing_package": 32,
+        "stock_package": 26,
+        "customer_member": 42,
+        "total_package": 35000
+    },
+    "error": null
+}
